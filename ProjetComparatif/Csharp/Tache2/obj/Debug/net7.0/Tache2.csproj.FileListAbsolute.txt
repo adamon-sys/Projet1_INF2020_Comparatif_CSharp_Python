@@ -1,0 +1,15 @@
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/bin/Debug/net7.0/Tache2
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/bin/Debug/net7.0/Tache2.deps.json
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/bin/Debug/net7.0/Tache2.runtimeconfig.json
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/bin/Debug/net7.0/Tache2.dll
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/bin/Debug/net7.0/Tache2.pdb
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.csproj.AssemblyReference.cache
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.AssemblyInfoInputs.cache
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.AssemblyInfo.cs
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.csproj.CoreCompileInputs.cache
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.dll
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/refint/Tache2.dll
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.pdb
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/Tache2.genruntimeconfig.cache
+/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/Debug/net7.0/ref/Tache2.dll
