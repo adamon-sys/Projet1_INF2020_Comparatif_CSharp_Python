@@ -47,8 +47,8 @@ class Tache3_AnalyseTexte
         {
             Console.WriteLine($"{kvp.Key} : {kvp.Value}");
         }
-
+        // Arrêt du chronomètre et affichage du temps d'exécution
         stopwatch.Stop();
-        Console.WriteLine($"\n⏱ Temps d'exécution : {stopwatch.Elapsed.TotalSeconds:F6} secondes");
+        Console.WriteLine($"\n⏱ Temps d'exécution : {stopwatch.Elapsed.TotalMilliseconds:F3} millisecondes");
     }
 }

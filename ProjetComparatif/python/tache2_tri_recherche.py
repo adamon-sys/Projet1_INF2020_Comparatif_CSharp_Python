@@ -19,4 +19,4 @@ for nom in noms_finissant_par_e:
 
 # Temps d'exécution
 end = time.time()
-print(f"\n⏱ Temps d'exécution : {end - start:.6f} secondes")
+print(f"\n⏱ Temps d'exécution : {(end - start) * 1000:.3f} millisecondes")

@@ -23,4 +23,6 @@ for mot, count in top10:
     print(f"{mot} : {count}")
 
 end = time.time()
-print(f"\n⏱ Temps d'exécution : {end - start:.6f} secondes")
+print(f"\n⏱ Temps d'exécution : {(end - start) * 1000:.3f} millisecondes")
+
+

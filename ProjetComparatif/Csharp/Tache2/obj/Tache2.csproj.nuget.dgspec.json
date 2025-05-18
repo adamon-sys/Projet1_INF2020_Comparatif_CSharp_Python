@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/Tache2.csproj": {}
+    "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache2/Tache2.csproj": {}
   },
   "projects": {
-    "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/Tache2.csproj": {
+    "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache2/Tache2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/Tache2.csproj",
+        "projectUniqueName": "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache2/Tache2.csproj",
         "projectName": "Tache2",
-        "projectPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/Tache2.csproj",
+        "projectPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache2/Tache2.csproj",
         "packagesPath": "/Users/adamsapaka/.nuget/packages/",
-        "outputPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache2/obj/",
+        "outputPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adamsapaka/.nuget/NuGet/NuGet.Config"

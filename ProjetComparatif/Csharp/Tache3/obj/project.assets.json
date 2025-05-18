@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache3/Tache3.csproj",
+      "projectUniqueName": "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache3/Tache3.csproj",
       "projectName": "Tache3",
-      "projectPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache3/Tache3.csproj",
+      "projectPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache3/Tache3.csproj",
       "packagesPath": "/Users/adamsapaka/.nuget/packages/",
-      "outputPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1/ProjetComparatif/Csharp/Tache3/obj/",
+      "outputPath": "/Users/adamsapaka/Documents/PythonProjects/Projet1_INF2020_Comparatif_CSharp_Python/ProjetComparatif/Csharp/Tache3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adamsapaka/.nuget/NuGet/NuGet.Config"

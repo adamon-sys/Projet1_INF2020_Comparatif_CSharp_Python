@@ -4,7 +4,7 @@ import time
 start = time.time()  # Début du chronomètre
 
 # Charger le fichier CSV
-df = pd.read_csv("ProjetComparatif/python/notes_etudiants.csv")
+df = pd.read_csv("notes_etudiants.csv")
 
 # Afficher les premières lignes pour vérification
 print("Données chargées :\n")
@@ -22,4 +22,4 @@ for matiere in cours:
     print(f"  Somme   : {df[matiere].sum()}\n")
 
 end = time.time()  # Fin du chronomètre
-print(f"⏱ Temps d'exécution : {end - start:.6f} secondes")
+print(f"\n⏱ Temps d'exécution : {(end - start) * 1000:.3f} millisecondes")
